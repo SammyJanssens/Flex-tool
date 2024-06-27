@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ELC Magnit/Flex Helper.
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
+// @version      2.1.0
 // @description  Make this piece of $@%& usable.
 // @author       You
 // @match        https://prowand.pro-unlimited.com/wand/app/worker/index.html
